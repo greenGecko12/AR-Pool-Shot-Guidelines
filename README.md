@@ -1,5 +1,5 @@
 # AR Pool Shot Guideline Assistant
-This project is an AR application designed to assist pool players by providing visual shot guidelines using an XR (Extended Reality) headset. The app predicts the trajectory of the cue ball based on the angle of the cue and simulates where object balls will travel once they have been struck.
+This project is an AR application designed to assist pool players by providing visual shot guidelines using an XR (Extended Reality) headset. The app predicts the trajectory of the cue ball based on the angle of the cue and simulates where object balls will travel once they have been struck. We are making the application in Unity and aim to make it a stand-alone app on the Meta Quest 3 headset.
 
 ## Features
 Cue Ball Trajectory Prediction: Calculate and display the trajectory of the cue ball before a shot is taken.
