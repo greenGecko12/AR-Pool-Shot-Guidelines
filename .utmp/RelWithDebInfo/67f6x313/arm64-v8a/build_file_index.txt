@@ -1,0 +1,2 @@
+C:\Users\sai_k\Desktop\Uni\CS407\ARPoolTool\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\sai_k\Desktop\Uni\CS407\ARPoolTool\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

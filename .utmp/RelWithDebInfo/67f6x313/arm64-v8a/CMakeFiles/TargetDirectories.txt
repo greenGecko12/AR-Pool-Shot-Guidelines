@@ -1,0 +1,5 @@
+C:/Users/sai_k/Desktop/Uni/CS407/ARPoolTool/.utmp/RelWithDebInfo/67f6x313/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sai_k/Desktop/Uni/CS407/ARPoolTool/.utmp/RelWithDebInfo/67f6x313/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/sai_k/Desktop/Uni/CS407/ARPoolTool/.utmp/RelWithDebInfo/67f6x313/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/sai_k/Desktop/Uni/CS407/ARPoolTool/.utmp/RelWithDebInfo/67f6x313/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/sai_k/Desktop/Uni/CS407/ARPoolTool/.utmp/RelWithDebInfo/67f6x313/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

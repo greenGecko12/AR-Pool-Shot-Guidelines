@@ -1,0 +1,42 @@
+Sai's TODO list:
+
+Fix the glitch with the guidelines
+	-- don't need to show any guidelines when the ball is moving - disable that
+	-- ball can't be shot while it is moving
+	
+Add Damian's model to the Unity scene
+	--remember to add holes to the model
+	--remember to delete the balls from the scene after they fall through the holes
+	--add a tally of how many red and yellow balls have been pocketed at the top of the screen
+	
+Improve how realistic the simulation is
+	--play around with the physics values
+
+Add power setting 
+	--Basically a power bar for the cue just like 8-ball pool
+
+Add feature to regen the white ball if it goes off the table
+
+Fix error with the line renderer - it's saying the setpostion index is out of bounds
+
+Position Balls correctly in model
+	
+Add in the virtual cue stick
+	--until then use the Oculus controllers with haptic feedback to show when a shot has been taken
+	--remove ability to aim using the mouse (eventually)
+	--add ability to shoot (maybe a separate key or something)
+
+Add ability to move around the table - we will need ability to re-orient the table depending on player's position relative to the table
+	--using the arrow keys/WASD to move around the camera maybe?
+	--don't know how that would interact with Bailey's changes
+
+
+Add a feature to see how many of each colour have been potted so far at the top of the scene - like a tally
+
+Whenever an inconsistency between simulation and table is detected, update the table state
+	--Update after each shot
+	--Update after a foul and the player has ball in hand
+	
+
+Extension:
+	Foul detection?
